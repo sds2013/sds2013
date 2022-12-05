@@ -1,4 +1,4 @@
-<h2><img width="70%" src="https://user-images.githubusercontent.com/111099653/204726690-670215fd-fae0-4645-b06a-e771280e30db.png"/></h2>
+
 <div >
 <img width="70%" src="https://user-images.githubusercontent.com/111099653/204719003-b03eec75-c92c-4744-8fe2-23dbbbca879d.png"/>
 </div>
@@ -24,18 +24,16 @@
 <img width="70%" src="https://user-images.githubusercontent.com/111099653/204719704-bade0576-df6a-47e1-945b-987e3f0f2e55.png"/>
 </div>
 <div >
-	<a href="https://cheehoon.tistory.com">
+	<a href="https://sds201357.tistory.com">
 		<img width="12%" src="https://user-images.githubusercontent.com/111099653/204739526-f9a80c74-5250-45c7-b9b7-269b5562e055.png" />
 	</a>
-	<a href="mailto:sch1301@naver.com">
+	<a href="mailto:bsck9518@naver.com">
 		<img width="12%" src="https://user-images.githubusercontent.com/111099653/204720708-3c55aa1a-f6d0-4a49-a8db-ef9620e28935.png" />
 	</a>
-	<a href="https://github.com/CheeHoon">
+	<a href="https://github.com/sds2013">
 		<img width="12%" src="https://user-images.githubusercontent.com/111099653/204720705-03367cf4-ec18-4cf0-90cc-ad945cb760f5.png" />
 	</a>
 	<br>
 </div>
 	<br>
-<div>
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDooSoen&count_bg=%2379C83D&title_bg=%23555555&icon=slickpic.svg&icon_color=%23E7E7E7&title=today+%2F+Total&edge_flat=false"/></a>
-</div>
+
