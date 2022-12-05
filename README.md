@@ -30,7 +30,7 @@
 	<a href="mailto:bsck9518@naver.com">
 		<img width="12%" src="https://user-images.githubusercontent.com/111099653/204720708-3c55aa1a-f6d0-4a49-a8db-ef9620e28935.png" />
 	</a>
-	<a href="https://github.com/sds2013">
+	<a href="https://www.instagram.com/sckut_/">
 		<img width="12%" src="https://user-images.githubusercontent.com/111099653/204720705-03367cf4-ec18-4cf0-90cc-ad945cb760f5.png" />
 	</a>
 	<br>
